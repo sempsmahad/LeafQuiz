@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.resses.thistym.QuizThree">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="241dp"
+        android:paddingTop="10dp"
+        android:src="@drawable/refined" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tx1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/branch"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="36dp"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="leaf stalk" />
+
+        <TextView
+            android:id="@+id/tx2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tx1"
+            android:layout_alignStart="@+id/tx1"
+            android:layout_below="@+id/tx5"
+            android:layout_marginTop="17dp"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="MidRib" />
+
+        <TextView
+            android:id="@+id/tx3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tx2"
+            android:layout_alignStart="@+id/tx2"
+            android:layout_below="@+id/tx2"
+            android:layout_marginTop="12dp"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="stipule" />
+
+        <TextView
+            android:id="@+id/tx5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tx1"
+            android:layout_alignBottom="@+id/tx1"
+            android:layout_alignEnd="@+id/leafvein"
+            android:layout_alignRight="@+id/leafvein"
+            android:layout_marginEnd="18dp"
+            android:layout_marginRight="18dp"
+            android:fontFamily="cursive"
+            android:textSize="25dp"
+            android:text="leaf Blade" />
+
+        <TextView
+            android:id="@+id/tx6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tx3"
+            android:layout_alignEnd="@+id/tx5"
+            android:layout_alignRight="@+id/tx5"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="leaf Vein" />
+
+        <TextView
+            android:id="@+id/tx7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/tx3"
+            android:layout_alignEnd="@+id/tx6"
+            android:layout_alignRight="@+id/tx6"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="Apex" />
+
+        <TextView
+            android:id="@+id/tx8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tx4"
+            android:layout_alignBottom="@+id/tx4"
+            android:layout_alignLeft="@+id/tx7"
+            android:layout_alignStart="@+id/tx7"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="branch" />
+
+        <TextView
+            android:id="@+id/tx4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tx3"
+            android:layout_alignStart="@+id/tx3"
+            android:layout_below="@+id/tx3"
+            android:layout_marginTop="27dp"
+            android:fontFamily="cursive"
+            android:textSize="20dp"
+            android:text="Axil" />
+
+        <TextView
+            android:id="@+id/lamina"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="23dp"
+            android:layout_toEndOf="@+id/branch"
+            android:layout_toLeftOf="@+id/midrib"
+            android:layout_toRightOf="@+id/branch"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/apex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/lamina"
+            android:layout_marginEnd="14dp"
+            android:layout_marginRight="14dp"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/leafvein"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/apex"
+            android:layout_alignRight="@+id/apex"
+            android:layout_below="@+id/apex"
+            android:layout_marginEnd="29dp"
+            android:layout_marginRight="29dp"
+            android:layout_marginTop="47dp"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/axil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/tx1"
+            android:layout_alignStart="@+id/tx1"
+            android:layout_below="@+id/apex"
+            android:layout_marginLeft="34dp"
+            android:layout_marginStart="34dp"
+            android:layout_marginTop="14dp"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/midrib"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/tx8"
+            android:layout_alignRight="@+id/tx8"
+            android:layout_below="@+id/leafvein"
+            android:layout_marginTop="27dp"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/stalk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/midrib"
+            android:layout_toEndOf="@+id/axil"
+            android:layout_toRightOf="@+id/axil"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/stipule"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/stalk"
+            android:layout_alignStart="@+id/stalk"
+            android:layout_below="@+id/stalk"
+            android:layout_marginTop="10dp"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/branch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/stipule"
+            android:layout_marginTop="12dp"
+            android:layout_toEndOf="@+id/tx1"
+            android:layout_toRightOf="@+id/tx1"
+            android:fontFamily="serif-monospace"
+            android:text="TextView" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>

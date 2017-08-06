@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:7:5-54:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kyag error\.android\build-cache\fa98c38cb850b1a1f846b663a7a5c76f564e6b9d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kyag error\.android\build-cache\f0a967d4b1052173a48a76846ddec925eff6817f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kyag error\.android\build-cache\ca0319b58bca7f57fac0f4c46ea8cb32b43e6db2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kyag error\.android\build-cache\2d26634e7213c09d00635a490912d4639f3c841d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kyag error\.android\build-cache\4804c9e19721e4db1016b073376c7cbcea020859\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\c18b4f378ed5f4aa5ade9a4630dfe50cf6681002\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\5d4c6211ad8d9fc13e1a128881396c4f7ea36681\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kyag error\.android\build-cache\2b222af70a03a6d71328f6965b113db1a25c2d23\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\kyag error\.android\build-cache\e39b1b83f1e86faf71e98f49eba9e94b7ae6bdd7\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:10:9-31
+	android:supportsRtl
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:9:9-41
+	android:theme
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.resses.thistym.Launcher
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:15:9-21:16
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:15:19-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:16:9-20:25
+action#android.intent.action.MAIN
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:17:13-65
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:17:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:19:13-73
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:19:23-70
+activity#com.example.resses.thistym.MainActivity
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#android.intent.category.DEFAULT+com.example.resses.thistym.MAIN_ACTIVITY
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:24:13-28:29
+action#com.example.resses.thistym.MAIN_ACTIVITY
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:25:17-83
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:25:25-80
+category#android.intent.category.DEFAULT
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:27:27-73
+activity#com.example.resses.thistym.QuizOne
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:31:9-32:39
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:31:19-42
+activity#com.example.resses.thistym.CongsActivity
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:34:9-35:37
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:35:13-35
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:34:19-48
+activity#com.example.resses.thistym.QuizPage
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:37:9-38:35
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:38:13-33
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:37:19-43
+activity#com.example.resses.thistym.QuizTwo
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:40:9-41:39
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:40:19-42
+activity#com.example.resses.thistym.CongsTwoActivity
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:43:9-44:37
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.example.resses.thistym.QuizThree
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:46:9-47:41
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:47:13-39
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:46:19-44
+activity#com.example.resses.thistym.Captured
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:49:9-50:37
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:50:13-35
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:49:19-43
+activity#com.example.resses.thistym.Selected
+ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:52:9-53:48
+	android:label
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml:52:19-43
+uses-sdk
+INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kyag error\.android\build-cache\fa98c38cb850b1a1f846b663a7a5c76f564e6b9d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kyag error\.android\build-cache\f0a967d4b1052173a48a76846ddec925eff6817f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kyag error\.android\build-cache\ca0319b58bca7f57fac0f4c46ea8cb32b43e6db2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kyag error\.android\build-cache\2d26634e7213c09d00635a490912d4639f3c841d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kyag error\.android\build-cache\4804c9e19721e4db1016b073376c7cbcea020859\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\c18b4f378ed5f4aa5ade9a4630dfe50cf6681002\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\5d4c6211ad8d9fc13e1a128881396c4f7ea36681\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kyag error\.android\build-cache\2b222af70a03a6d71328f6965b113db1a25c2d23\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\kyag error\.android\build-cache\e39b1b83f1e86faf71e98f49eba9e94b7ae6bdd7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.microsoft.projectoxford:vision:1.0.374] C:\Users\kyag error\.android\build-cache\ff2d67b4976735fe67ae73d29751becd9dd7e991\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\ThisTym-quiz3,2,1\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kyag error\.android\build-cache\fa98c38cb850b1a1f846b663a7a5c76f564e6b9d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kyag error\.android\build-cache\f0a967d4b1052173a48a76846ddec925eff6817f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kyag error\.android\build-cache\ca0319b58bca7f57fac0f4c46ea8cb32b43e6db2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kyag error\.android\build-cache\2d26634e7213c09d00635a490912d4639f3c841d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kyag error\.android\build-cache\4804c9e19721e4db1016b073376c7cbcea020859\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\c18b4f378ed5f4aa5ade9a4630dfe50cf6681002\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kyag error\.android\build-cache\5d4c6211ad8d9fc13e1a128881396c4f7ea36681\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kyag error\.android\build-cache\2b222af70a03a6d71328f6965b113db1a25c2d23\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\AndroidManifest.xml:26:9-47
+library
+ADDED from [com.microsoft.projectoxford:vision:1.0.374] C:\Users\kyag error\.android\build-cache\ff2d67b4976735fe67ae73d29751becd9dd7e991\output\AndroidManifest.xml:9:5-16

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.resses.thistym">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/simple1"
+        android:label="myLeaf"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".Launcher">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="com.example.resses.thistym.MAIN_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".QuizOne"
+            android:label="quiz one"/>
+
+        <activity android:name=".CongsActivity"
+            android:label="result"/>
+
+        <activity android:name=".QuizPage"
+            android:label="quiz"/>
+
+        <activity android:name=".QuizTwo"
+            android:label="quiz two"/>
+
+        <activity android:name=".CongsTwoActivity"
+            android:label="result"/>
+
+        <activity android:name=".QuizThree"
+            android:label="quiz three"/>
+
+        <activity android:name=".Captured"
+            android:label="Camera"/>
+
+        <activity android:name=".Selected"
+            android:label="Gallery"></activity>
+    </application>
+
+</manifest>

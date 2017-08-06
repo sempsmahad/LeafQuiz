@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_42e99934089c370ec9a4443ceffa280a8110fa11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\2b222af70a03a6d71328f6965b113db1a25c2d23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_6e5377eab43a39e5c7db84451baf935ca7542603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\e39b1b83f1e86faf71e98f49eba9e94b7ae6bdd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_4eaae28bd269bcaf0802b2f298a84547e27f0917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\ca0319b58bca7f57fac0f4c46ea8cb32b43e6db2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_4b14e5ac20c3249d1f559810f82235556b0dcd74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\c18b4f378ed5f4aa5ade9a4630dfe50cf6681002\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_2948bcd43c7e46a41fb45d2fd8021bd797227a0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\31bdb30455c42dca597ba5e003ccb5533a7202f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_e0056a52049fb80ed26f6dbcfd084da6650b2596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_a0df6d8a1f70f070bd17d7911db18588c47b046a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\4804c9e19721e4db1016b073376c7cbcea020859\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_fa43a35e1965c61e91ab55acce7c4c4826cea8c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\fa98c38cb850b1a1f846b663a7a5c76f564e6b9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_190a77d2697ee7f8dbd2394316eb98371ccead10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\2d26634e7213c09d00635a490912d4639f3c841d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_d54b825a6d1a2c0f81e7bca98d5b84cefcae29cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\f0a967d4b1052173a48a76846ddec925eff6817f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_22cce89d7af3c5e39d6ffcba4a09fce54f1916f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kyag error\.android\build-cache\5d4c6211ad8d9fc13e1a128881396c4f7ea36681\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\android\ThisTym-quiz3,2,1\app\build\intermediates\pre-dexed\debug\classes_d1a2869346b44af93588047aace5cf5d21fa4497.jar" />
+    </item>
+
+</items>

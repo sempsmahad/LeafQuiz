@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.resses.thistym"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <library />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/simple1"
+        android:label="myLeaf"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.resses.thistym.Launcher" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.resses.thistym.MainActivity" >
+            <intent-filter>
+                <action android:name="com.example.resses.thistym.MAIN_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.resses.thistym.QuizOne"
+            android:label="quiz one" />
+        <activity
+            android:name="com.example.resses.thistym.CongsActivity"
+            android:label="result" />
+        <activity
+            android:name="com.example.resses.thistym.QuizPage"
+            android:label="quiz" />
+        <activity
+            android:name="com.example.resses.thistym.QuizTwo"
+            android:label="quiz two" />
+        <activity
+            android:name="com.example.resses.thistym.CongsTwoActivity"
+            android:label="result" />
+        <activity
+            android:name="com.example.resses.thistym.QuizThree"
+            android:label="quiz three" />
+        <activity
+            android:name="com.example.resses.thistym.Captured"
+            android:label="Camera" />
+        <activity
+            android:name="com.example.resses.thistym.Selected"
+            android:label="Gallery" />
+    </application>
+
+</manifest>
